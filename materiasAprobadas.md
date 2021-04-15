@@ -4,7 +4,7 @@
 Descripciòn:  
 * Analisis de Algoritmos  
 Descripciòn:  
-* Programaciòn FUncional y Reactiva  
+* Programaciòn Funcional y Reactiva  
 Descripciòn:  
 * Prototipado  
 Descripciòn:
@@ -16,13 +16,11 @@ Descripciòn:
 Descripciòn:
 * Programación Orientada a Objetos  
 Descripciòn:
-* Ecuaciones diferenciales  
+* Ecuaciones Diferenciales  
 Descripciòn:
 * Lógica Digital  
 Descripciòn:
 * Fundamentos de Base de Datos  
-Descripciòn:
-* Programación FUncional y Reactiva  
 Descripciòn:
 * Practicum 1.1  
 Descripciòn:
