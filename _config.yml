@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Mi primer Libro en Jupyter
-author: @snrosales
+author: "@snrosales"
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
