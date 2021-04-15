@@ -1,4 +1,5 @@
 # Welcome Shomira to your Jupyter Book¶  
-Listado de Materias  
+Consulta de materias aprobadas y por aprobar 
   
-  PRACTICA1
+
+==========================================================================================
