@@ -1,9 +1,9 @@
 ## Materias Aprobadas
-Algoritmos y Diseño  
+*Algoritmos y Diseño  
 Descripciòn:  
-Analisis de Algoritmos  
+*Analisis de Algoritmos  
 Descripciòn:  
-Programaciòn FUncional y Reactiva  
+*Programaciòn FUncional y Reactiva  
 Descripciòn:  
-Prototipado  
+*Prototipado  
 Descripciòn:
