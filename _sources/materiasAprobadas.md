@@ -8,23 +8,23 @@ Descripciòn:
 Descripciòn:  
 * Prototipado  
 Descripciòn:
-* Álgebra Lineal
+* Álgebra Lineal  
 Descripciòn:
-* Análisis Matemáico
+* Análisis Matemáico  
 Descripciòn:
-* EStructura de datos
+* Estructura de datos  
 Descripciòn:
-* Programación Orientada a Objetos
-
-* Ecuaciones diferenciales
+* Programación Orientada a Objetos  
 Descripciòn:
-* Lógica Digital
+* Ecuaciones diferenciales  
 Descripciòn:
-* Fundamentos de Base de Datos
+* Lógica Digital  
 Descripciòn:
-* Programación FUncional y Reactiva
+* Fundamentos de Base de Datos  
 Descripciòn:
-* Practicum 1.1
+* Programación FUncional y Reactiva  
 Descripciòn:
-* Antropología Básica
+* Practicum 1.1  
+Descripciòn:
+* Antropología Básica  
 Descripciòn:
