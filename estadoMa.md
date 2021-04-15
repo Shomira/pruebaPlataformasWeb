@@ -1,5 +1,5 @@
-Materias Aprobadas  
-Materias Por Aprobar
+*Materias Aprobadas  
+*Materias Por Aprobar
 
 
 
