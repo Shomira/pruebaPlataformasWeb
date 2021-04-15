@@ -8,15 +8,15 @@ Descripciòn:
 Descripciòn:  
 * Fundamentos de Redes  
 Descripciòn:
-* Representacion Avanzada del Conocimiento y Razonamiento
+* Representacion Avanzada del Conocimiento y Razonamiento  
 Descripciòn:
-* Computacion Paralela y Distribuida
+* Computacion Paralela y Distribuida  
 Descripciòn:
-* Practicum 4.1
+* Practicum 4.1  
 Descripciòn:
-* Plataformas para Juegos
+* Plataformas para Juegos  
 Descripciòn:
-* Emprendimiento de base tecnologica 1
+* Emprendimiento de base tecnologica 1  
 Descripciòn:
 * Composición de Textos Cientificos
 
