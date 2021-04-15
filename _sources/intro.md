@@ -1,6 +1,4 @@
-Welcome Shomira to your Jupyter Book
-============================
-
-Listado de Materias
-
-**PRACTICA1**
+# Welcome Shomira to your Jupyter Book¶  
+Listado de Materias  
+  
+  PRACTICA1
